@@ -22,6 +22,8 @@ Simple command-line applications to reinforce basic syntax, control flow, and fi
   - Functions
   - File I/O
 
+👉 [📘 Click to view detail](https://github.com/trannhatnetwork/real_project_python/blob/main/python_project_list.md)
+
 ### 2. Personal Expense Tracker
 - **Description**: Record personal expenses and categorize them for simple financial tracking.
 - **Features**:
