@@ -1,4 +1,4 @@
-# 📁 real_project_python
+# 📁 Real Python Projects 
 
 > 🚀 **This repository contains real-world Python projects to reinforce foundational programming skills.**
 
